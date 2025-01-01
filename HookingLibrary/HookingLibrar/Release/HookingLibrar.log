@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\sources\HookExplorer\HookingLibrary\HookingLibrar\Release\HookingLibrar.dll) does not match the Linker's OutputFile property value (C:\sources\HookExplorer\HookingLibrary\HookingLibrar\x64\release\HookingLibrar_x86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(HookingLibrar) does not match the Linker's OutputFile property value (HookingLibrar_x86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  HookingLibrar.vcxproj -> C:\sources\HookExplorer\HookingLibrary\HookingLibrar\Release\HookingLibrar.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

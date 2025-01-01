@@ -1,0 +1,13 @@
+﻿  Launch32Bits.cpp
+C:\sources\HookExplorer\Launch32Bits\Launch32Bits.cpp(8,18): warning C4273: '__p___argc': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1144,29): message : see previous definition of '__p___argc'
+C:\sources\HookExplorer\Launch32Bits\Launch32Bits.cpp(9,21): warning C4273: '__p___argv': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1145,29): message : see previous definition of '__p___argv'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\sources\HookExplorer\Launch32Bits\Release\Launch32Bits.exe) does not match the Linker's OutputFile property value (C:\sources\HookExplorer\HookingLibrary\HookingLibrar\x64\Release\Launch32Bits.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  Finished generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Launch32Bits.vcxproj -> C:\sources\HookExplorer\Launch32Bits\Release\Launch32Bits.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

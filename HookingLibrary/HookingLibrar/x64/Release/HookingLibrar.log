@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Generating code
+  Finished generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  HookingLibrar.vcxproj -> C:\sources\HookExplorer\HookingLibrary\HookingLibrar\x64\Release\HookingLibrar.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
